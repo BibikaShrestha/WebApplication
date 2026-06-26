@@ -30,7 +30,10 @@ function Form() {
           className="px-4 py-3.5 text-base text-slate-900 rounded-md bg-white w-full outline-1 -outline-offset-1 outline-slate-300 focus:outline-2 focus:-outline-offset-2 focus:outline-blue-600"
         />
       </div>
-      <button type="submit" className="btn btn-accent bg-blue-500 text-white" >
+      <button
+        type="submit"
+        className="btn btn-accent bg-blue-500 text-white "
+      >
         Submit
       </button>
     </form>
